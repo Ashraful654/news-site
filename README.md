@@ -1,6 +1,6 @@
 
 #  news-site Website Complete 
-It's Complete Dynamic and Fully Functional Website using PHP prrogramming language and MySQL Database.
+It's Complete Dynamic and Fully Functional Website using PHP programming language and MySQL Database.
 
 
 # ⚙️ Technology Used
